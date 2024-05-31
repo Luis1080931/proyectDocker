@@ -33,5 +33,5 @@ servidor.post('/user', async (req, res) => {
 });
 
 servidor.listen(3000, () => {
-  console.log('Servidor rodando na porta 3000');
+  console.log('Servidor rodando na porta 3000!');
 });
